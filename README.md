@@ -12,3 +12,7 @@ Directly start a setup that will install the application on your computer
 # Folder "CarnetDeNotes"
 
 Contains the source code of the Visual Studio 2017 Project
+
+# Documentation
+
+the C# documentation (contained in the .cs files) is french only.
