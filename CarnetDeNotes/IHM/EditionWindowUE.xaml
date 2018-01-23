@@ -1,0 +1,18 @@
+﻿<Window x:Class="IHM.EditionWindowUE"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IHM"
+        mc:Ignorable="d"
+        Title="UE" Height="230" Width="300">
+    <Grid>
+        <Label Content="Nom de l'UE :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,29,0,0"/>
+        <Label Content="Coefficient de l'UE :" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.212,-1.154" Width="114"/>
+        <TextBox x:Name="tbNom" HorizontalAlignment="Left" Height="23" Margin="138,32,0,0" TextWrapping="Wrap" Text="{Binding Nom}" VerticalAlignment="Top" Width="144"/>
+        <TextBox x:Name="tbCoeff" HorizontalAlignment="Left" Height="23" Margin="138,85,0,0" TextWrapping="Wrap" Text="{Binding Coefficient}" VerticalAlignment="Top" Width="144" PreviewTextInput="NoText"/>
+        <Button x:Name="btnValider" Content="Valider" HorizontalAlignment="Left" Margin="49,156,0,0" VerticalAlignment="Top" Width="75" Click="Valider"/>
+        <Button x:Name="btnAnnuler" Content="Annuler" HorizontalAlignment="Left" Margin="170,156,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.187,0.1" Click="Annuler"/>
+
+    </Grid>
+</Window>
