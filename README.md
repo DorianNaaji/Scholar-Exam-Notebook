@@ -1,18 +1,16 @@
-# ScholarNoteBook
-Application made to manage a student's marks (Project made in 2017 @InstituteOfTechnology of Dijon, France)
+# Scholar NoteBook
+Application made to manage students marks (Project made in 2017 @InstituteOfTechnology of Dijon, France)
 
-# File "Analyse.vpp"
 
+![image](https://user-images.githubusercontent.com/31795527/114315755-a2e2a600-9b00-11eb-8df7-0d5c58497fa7.png)
+
+
+## File "Analyse.vpp"
 Contains UML diagrams that describe the classes and their interactions (Visual Paradigm)
 
-# File "setup.exe" and "Carnet de notes - wizard.msi"
+## Folder "CarnetDeNotes"
 
-Directly start a setup that will install the application on your computer
+Contains the source code of the Visual Studio 2017 Solution
 
-# Folder "CarnetDeNotes"
-
-Contains the source code of the Visual Studio 2017 Project
-
-# Documentation
-
-the C# documentation (contained in the .cs files) is french only.
+## Documentation
+the C# documentation & code is french only for evaluation purposes
