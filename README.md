@@ -1,4 +1,4 @@
-# Scholar Notebook
+# Scholar Exam Notebook
 Application made to manage students marks (Project made in 2017 @InstituteOfTechnology of Dijon, France)
 
 ***
