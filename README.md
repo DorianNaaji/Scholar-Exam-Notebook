@@ -2,7 +2,9 @@
 Application made to manage students marks (Project made in 2017 @InstituteOfTechnology of Dijon, France)
 
 
-![image](https://user-images.githubusercontent.com/31795527/114315755-a2e2a600-9b00-11eb-8df7-0d5c58497fa7.png)
+![image](https://user-images.githubusercontent.com/31795527/114315815-eb9a5f00-9b00-11eb-87ae-049b1190227a.png)
+
+![image](https://user-images.githubusercontent.com/31795527/114315820-f1904000-9b00-11eb-821a-ce3eb54c8609.png)
 
 
 ## File "Analyse.vpp"
